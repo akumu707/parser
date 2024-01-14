@@ -1,0 +1,3 @@
+BLOCK main {x : 5-(2+1)-3
+WRITE x DO hi}
+BLOCK hi {x:1WRITE x}
